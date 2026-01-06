@@ -17,10 +17,6 @@ Aqui estão as principais tecnologias que eu utilizo no meu dia a dia:
 - ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white) **VSCode**
 - ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) **Figma**
 
-## 📈 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bren0-lab&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
 ## 🚀 Projetos
 
 Aqui estão alguns dos meus projetos:
